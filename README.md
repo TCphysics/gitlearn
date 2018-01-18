@@ -4,6 +4,8 @@ git init: initialize a empty git repository
 
 mdkir :creat directory
 
+rmdir: delete directory
+
 ls -ah: show eall files under the directory
 
 cat fielname.filetype :sheck file conten
